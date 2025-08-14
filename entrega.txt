@@ -1,7 +1,7 @@
 Enrico Nogueira Elorza, 253041006;
 https://github.com/e-elorza/ATIVIDADE-ROBSON-GIT;
 entrega-aula02-253041006;
-SHA DA TAG.
+1668d027c54ec731efe9413dfd69e16a9d947655.
 LISTA DE COMANDOS:
 mkdir
 cd 
@@ -10,6 +10,7 @@ git add .
 git commit
 git branch
 git remote add origin
+git push
 git log
 git rev-parse
 git show
